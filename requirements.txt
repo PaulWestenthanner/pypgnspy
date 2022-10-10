@@ -1,0 +1,3 @@
+python-chess
+pandas
+dash>2
